@@ -12,7 +12,9 @@ using namespace std;
 
 int main()
 {
-	cout<<"sjdshjdshd"<<endl;
+
+	cout<<"helllo"<<endl;
+
 	int **tab, **tab_c, rozmiar;
 	int nSt = 0;
 
