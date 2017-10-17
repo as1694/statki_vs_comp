@@ -12,6 +12,7 @@ using namespace std;
 
 int main()
 {
+	cout<<"helllo"<<endl;
 	int **tab, **tab_c, rozmiar;
 	int nSt = 0;
 
